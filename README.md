@@ -1,4 +1,4 @@
-[![Header](https://github.com/pat-in-a-hat/pat-in-a-hat/blob/main/IMG_2572.JPG?raw=true "Header)]
+![Header](https://github.com/pat-in-a-hat/pat-in-a-hat/blob/main/IMG_2572.JPG?raw=true "Header")
 # Current Projects & Adventures
 Promineo * Montana Code School Summer 2022 Front End Code School <br />
 R2R2R October 2022
