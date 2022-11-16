@@ -1,15 +1,13 @@
 <!--[![Header](https://github.com/pat-in-a-hat/pat-in-a-hat/blob/main/git_cover_photo.JPG?raw=true "Header")](https://github.com/pat-in-a-hat)-->
 # Current Projects & Adventures
-Promineo * Montana Code School Summer 2022 Front End Code School <br />
-R2R2R run October 2022
-
+Promineo * Montana Code School 2022 Front End Bootcamp <br />
+Yellowstone Lake Ski Expedition - Winter 2023
 
 
 ## Projects In Progress
 Movordle <br />
 Fishbyte <br />
 Redband <br />
-Poopsauras <br/>
 Pickem <br/>
 
 
