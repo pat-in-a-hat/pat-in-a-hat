@@ -1,6 +1,6 @@
 <!--[![Header](https://github.com/pat-in-a-hat/pat-in-a-hat/blob/main/git_cover_photo.JPG?raw=true "Header")](https://github.com/pat-in-a-hat)-->
 # Current Projects & Adventures
-💻 Montana Code School 2022 Front End Bootcamp <br />
+💻 FireTrac Team @ Bridger Aerospace <br />
 🎿 Yellowstone Lake Ski Expedition - Winter 2023
 
 
